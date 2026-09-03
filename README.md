@@ -1,9 +1,9 @@
 # Portfolio-Sidney
 
 ## Table of Content
--[SQL](#SQL)
--[Python](#Python)
--[PowerBI](#PowerBI)
+- [SQL](#SQL)
+- [Python](#Python)
+- [PowerBI](#PowerBI)
 
 
 # SQL
